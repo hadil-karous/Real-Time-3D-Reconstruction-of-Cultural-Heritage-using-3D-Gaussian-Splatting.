@@ -152,15 +152,13 @@ Camera centers are projected to the XZ plane and divided into `N_TEST = n_total 
 
 | Metric | Value |
 |---|---|
-| Registered images | — |
-| Median reprojection error | — px |
-| Train images | — |
-| Test images | — |
-| Mean PSNR (test, 30k iter) | — dB |
+| Registered images | 263 |
+| Median reprojection error | 0.893px |
+| Train images | 231 |
+| Test images | 32 |
+| Mean PSNR (test, 30k iter) | 21.05 dB |
 
-> Replace the `—` placeholders with your actual values after running the full pipeline.
 
----
 
 ## Why PSNR on Ignatius is inherently challenging
 
