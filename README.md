@@ -61,7 +61,7 @@ If the rejection rate exceeds 20%, the blur threshold is automatically relaxed t
              dashed rejection threshold line.
      Place : directly below this comment block.
 -->
-![Blur score distribution](assets/blur_dis<img width="1492" height="449" alt="image" src="https://github.com/user-attachments/assets/8361d3bc-6f01-4624-bd8f-f929b483e977" />
+<img width="1492" height="449" alt="image" src="https://github.com/user-attachments/assets/8361d3bc-6f01-4624-bd8f-f929b483e977" />
 
 tribution.png)
 *Figure 1 — Sharpness distribution of input frames. Frames left of the red threshold are rejected as blurry.*
