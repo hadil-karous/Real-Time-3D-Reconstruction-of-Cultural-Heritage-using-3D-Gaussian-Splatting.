@@ -153,7 +153,7 @@ Camera centers are projected to the XZ plane and divided into `N_TEST = n_total 
 | Metric | Value |
 |---|---|
 | Registered images | 263 |
-| Median reprojection error | 0.893px |
+| Median reprojection error | 0.893 px |
 | Train images | 231 |
 | Test images | 32 |
 | Mean PSNR (test, 30k iter) | 21.05 dB |
